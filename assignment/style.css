@@ -1,10 +1,27 @@
-<img src="/Users/sabrinac/Pictures/Sabrina.jpeg"
-width="300"
-/>
+body {
+  background-color: #5fb4c9;
+}
 
-header {
-  color: #0000ff;
-  }/* Give your page a fun background color */
+h1 {
+  color: #b6d6de;
+  text-align: center;
+}
+
+img {
+  max-width: 40%;
+  height: auto;
+  border: 3px solid white;
+}
+
+footer {
+  color: #b6d6de;
+}
+
+
+
+
+
+/* Give your page a fun background color */
 
 /* Make the header and footer a different color from the background */
 
