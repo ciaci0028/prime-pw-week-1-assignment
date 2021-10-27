@@ -5,22 +5,32 @@ body {
 h1 {
   color: #b6d6de;
   text-align: center;
+  background-color: darkgrey;
 }
 
 img {
   max-width: 40%;
   height: auto;
   border: 3px solid white;
+  text-align: center;
+}
+
+<style>
+div {
+  text-align: center;
 }
 
 #one {
   font-family: Arial, Helvetica, sans-serif;
   color: white;
+  text-align: center;
 }
 
 #two {
   font-size: 20px;
   font-style: italic;
+  background-color: darkgrey;
+  text-align: center;
 }
 
 footer {
