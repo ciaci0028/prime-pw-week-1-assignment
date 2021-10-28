@@ -8,6 +8,10 @@ h1 {
   background-color: darkgrey;
 }
 
+#image {
+  text-align: center;
+}
+
 img {
   max-width: 40%;
   height: auto;
