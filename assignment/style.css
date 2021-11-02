@@ -30,7 +30,7 @@ div {
 #one {
   font-family: Arial, Helvetica, sans-serif;
   color: white;
-  text-align: center;
+  text-align: left;
   outline: 2px solid lightgrey;
   width: 400px;
   margin: 0 auto;
